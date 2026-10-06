@@ -1,0 +1,17 @@
+# Compilados y salida de Maven
+target/
+bin/
+*.class
+
+# Configuracion propia de Eclipse
+.settings/
+.classpath
+.project
+.metadata/
+
+# Otros IDE y sistema operativo
+.idea/
+*.iml
+.vscode/
+.DS_Store
+*.log

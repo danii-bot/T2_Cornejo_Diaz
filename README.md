@@ -11,3 +11,7 @@ linea base, staging, commits, ramas, fusion, publicacion y sincronizacion.
 ## Evidencia T2
 Evaluacion 02 - Lenguaje de Programacion II - Seccion T4MO.
 Control de versiones con Git y GitHub.
+
+## Control de cambios
+Se gestionaron cambios entre Working Directory y Staging Area usando
+git status, git diff, git add, git reset y git restore.

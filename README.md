@@ -15,3 +15,8 @@ Control de versiones con Git y GitHub.
 ## Control de cambios
 Se gestionaron cambios entre Working Directory y Staging Area usando
 git status, git diff, git add, git reset y git restore.
+
+## Gestion de ramas
+Rama utilizada: feature-cornejo.
+Se agrego la clase ControlVersion_Cornejo.java, que muestra en consola la
+identificacion de la estudiante, y luego se fusiono con la rama main.
